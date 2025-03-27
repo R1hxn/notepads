@@ -1,12 +1,13 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/74c7a684-b93a-4e21-bf0e-bc904ab64a93"></div>
 <h1 align="center">Notepads App</h1>
 <p align="center"><b>A modern, lightweight text editor with a minimalist design</b></p>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square"></a>
+  <a href=""><img src="https://img.shields.io/github/release/0x7c13/notepads.svg?label=latest%20release&style=flat-square"></a>
+  <a href=""><img src="https://img.shields.io/badge/platform-Windows%20%7C%20UWP-yellow.svg?style=flat-square"></a>
+</div>
 <hr>
-<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square"></a>
-<a href=""><img src="https://img.shields.io/github/release/0x7c13/notepads.svg?label=latest%20release&style=flat-square"></a>
-<a href=""><img src="https://img.shields.io/badge/platform-Windows%20%7C%20UWP-yellow.svg?style=flat-square"></a>
-<br>
-<br>
 <ul>
   <li><b>Download Notepads app</b> <i>(Passowrd: npForEver)</i></li>
   <br>
